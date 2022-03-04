@@ -1,2 +1,0 @@
-##Keeper
-#Note Taking App
